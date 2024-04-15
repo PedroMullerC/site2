@@ -1,0 +1,8 @@
+:root {
+    --branco-principal: #FFFFFF;
+    --cinza-secundario: #C0C0C0;
+    --cor-de-fundo: #FFFFFF;
+}
+body{
+    background-color: #FFFFFF;
+}
